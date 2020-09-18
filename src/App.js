@@ -55,9 +55,9 @@ class App extends Component {
       
       <Router>
 
-        <Link to="/">Home</Link>
+        <Link to="/">Inicio</Link>
         <br></br>
-        <Link to="/posts">Posts</Link>
+        <Link to="/posts">Publicaciones</Link>
 
         <br></br>
         <br></br>
